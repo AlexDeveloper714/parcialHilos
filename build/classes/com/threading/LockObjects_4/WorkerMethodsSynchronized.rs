@@ -1,0 +1,3 @@
+LockObjects_4.WorkerMethodsSynchronized
+LockObjects_4.WorkerMethodsSynchronized$2
+LockObjects_4.WorkerMethodsSynchronized$1

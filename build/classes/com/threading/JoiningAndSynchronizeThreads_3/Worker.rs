@@ -1,0 +1,3 @@
+JoiningAndSynchronizeThreads_3.Worker
+JoiningAndSynchronizeThreads_3.Worker$2
+JoiningAndSynchronizeThreads_3.Worker$1
